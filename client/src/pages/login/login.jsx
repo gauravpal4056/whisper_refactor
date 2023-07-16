@@ -37,7 +37,7 @@ const Login = () => {
         <>
             <Box className="h-screen w-screen flex md:flex-row flex-col  bg-[#f0f1f5] ">
                 <Box>
-                    <Box className="flex items-center gap-1 p-3 m-6">
+                    <Box className="flex items-center gap-1 p-3 md:m-6">
                         <div className=" h-12 w-12 bg-[url('/logo.png')] bg-cover bg-center " />
                         <h1 className="text-[#3e3e3e] text-lg uppercase font-bold">Whispers</h1>
                     </Box>
